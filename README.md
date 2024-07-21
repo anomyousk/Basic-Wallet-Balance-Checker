@@ -71,7 +71,7 @@ Execute the script from the command line, providing the wallet principal as an a
 <code>node index.js <principal>
 </code>
 <h1>Keep IN Mind</h1>
-HttpAgent: Used to create an agent that interacts with the Internet Computer network.
-Actor: Represents the canister (smart contract) you interact with.
-Principal: Represents the identifier for accounts on the Internet Computer.
-account_balance_dfx: A function exposed by the ICP ledger canister to get the balance of a specific account.
+<br>HttpAgent: Used to create an agent that interacts with the Internet Computer network.</br>
+<br>Actor: Represents the canister (smart contract) you interact with.</br>
+<br>Principal: Represents the identifier for accounts on the Internet Computer.</br>
+<br>account_balance_dfx: A function exposed by the ICP ledger canister to get the balance of a specific account.</br>
